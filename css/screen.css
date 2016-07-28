@@ -1,0 +1,16 @@
+body {
+    padding-top: 5rem;
+}
+.bd-footer {
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 85%;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+.bd-footer a {
+    font-weight: 500;
+}
+.bd-footer p {
+    margin-bottom: 0;
+}
